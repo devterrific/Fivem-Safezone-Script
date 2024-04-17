@@ -10,3 +10,9 @@ Integration with okokNotify: Make sure the okokNotify resource is installed to d
 
 
 For Support Join My Discord : https://discord.gg/3YCBrHrW9g
+
+
+Make Sure that you have OKOKNotfiy Installed 
+
+
+Other wise change the Export to Whatever you want 
