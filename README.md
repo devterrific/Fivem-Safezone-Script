@@ -14,5 +14,4 @@ For Support Join My Discord : https://discord.gg/3YCBrHrW9g
 
 Make Sure that you have OKOKNotfiy Installed 
 
-
-Other wise change the Export to Whatever you want 
+else go to line 54 and 58 and comment them out and uncomment the line 55 and 59
