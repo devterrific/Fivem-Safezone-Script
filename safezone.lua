@@ -52,9 +52,11 @@ Citizen.CreateThread(function()
         if inSafezone and not InSafeZone then
             InSafeZone = true
             exports['okokNotify']:Alert("Terrific", "You Entered A Safezone.", 5000, 'success')
+		--exports['qb-core']:Notify("Terrific", "You Entered A Safezone.")
         elseif not inSafezone and InSafeZone then
             InSafeZone = false
             exports['okokNotify']:Alert("Terrific", "You Leaved A Safezone", 5000, 'error')
+		-- exports['qb-core']:Notify("Terrific", "You Entered A Safezone.")
         end
 
         if InSafeZone and not isJobAllowed() then
